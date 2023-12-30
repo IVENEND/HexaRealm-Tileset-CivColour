@@ -1,3 +1,5 @@
 # HexaRealm-Tileset-CivColour
-Submod for HexaRealm, add CivColour support
-Not finsihed yet.
+Submod for HexaRealm, add Civ Colour support
+* add Civilization Colour support for non-unique units
+* modify some design of unit graphic of HexaRealm
+* change colour of city tiles.

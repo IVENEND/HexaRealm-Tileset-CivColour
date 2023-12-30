@@ -1,2 +1,3 @@
-# HexaRealm-Tileset
-A tileset mod for Unciv, featuring milder colors and better resolution of tiles!
+# HexaRealm-Tileset-CivColour
+Submod for HexaRealm, add CivColour support
+Not finsihed yet.

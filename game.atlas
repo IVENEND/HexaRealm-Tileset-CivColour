@@ -1693,16 +1693,16 @@ TileSets/HexaRealm/Units/Pictish Warrior
   index: -1
 TileSets/HexaRealm/Units/Pikeman
   rotate: false
-  xy: 868, 461
-  size: 64, 60
-  orig: 64, 60
+  xy: 868, 453
+  size: 64, 68
+  orig: 64, 68
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Pikeman-2
   rotate: false
-  xy: 940, 526
-  size: 64, 60
-  orig: 64, 60
+  xy: 940, 518
+  size: 64, 68
+  orig: 64, 68
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Privateer
@@ -1784,14 +1784,14 @@ TileSets/HexaRealm/Units/SS Stasis Chamber
   index: -1
 TileSets/HexaRealm/Units/Samurai
   rotate: false
-  xy: 868, 395
+  xy: 868, 387
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Scout
   rotate: false
-  xy: 940, 462
+  xy: 940, 454
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1854,7 +1854,7 @@ TileSets/HexaRealm/Units/Sipahi
   index: -1
 TileSets/HexaRealm/Units/Skirmisher
   rotate: false
-  xy: 940, 398
+  xy: 940, 390
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

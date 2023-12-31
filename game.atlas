@@ -263,6 +263,13 @@ TileSets/HexaRealm/Units/Paratrooper-1
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Privateer-1
+  rotate: false
+  xy: 76, 950
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Rocket Artillery-1
   rotate: false
   xy: 76, 950
@@ -1698,198 +1705,205 @@ TileSets/HexaRealm/Units/Privateer
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Quinquereme
+TileSets/HexaRealm/Units/Privateer-2
   rotate: false
   xy: 1084, 677
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rifleman
+TileSets/HexaRealm/Units/Quinquereme
   rotate: false
   xy: 1156, 758
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rifleman-1
+TileSets/HexaRealm/Units/Rifleman
   rotate: false
   xy: 1228, 822
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rifleman-2
+TileSets/HexaRealm/Units/Rifleman-1
   rotate: false
   xy: 1300, 886
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rocket Artillery
+TileSets/HexaRealm/Units/Rifleman-2
   rotate: false
   xy: 1372, 950
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rocket Artillery -2
+TileSets/HexaRealm/Units/Rocket Artillery
   rotate: false
   xy: 868, 410
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rocket Artillery -2
+  rotate: false
+  xy: 940, 464
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rocket Artillery-2
   rotate: false
-  xy: 868, 410
+  xy: 940, 464
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/SS Booster
   rotate: false
-  xy: 940, 464
+  xy: 1012, 547
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/SS Cockpit
   rotate: false
-  xy: 940, 464
+  xy: 1012, 547
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/SS Engine
   rotate: false
-  xy: 940, 464
+  xy: 1012, 547
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/SS Stasis Chamber
   rotate: false
-  xy: 940, 464
+  xy: 1012, 547
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Samurai
   rotate: false
-  xy: 1012, 545
+  xy: 1084, 611
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Scout
   rotate: false
-  xy: 1084, 613
+  xy: 1156, 694
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Scout-2
   rotate: false
-  xy: 1156, 694
+  xy: 1228, 758
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Sea Beggar
   rotate: false
-  xy: 1228, 758
+  xy: 1300, 822
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler
   rotate: false
-  xy: 1300, 822
+  xy: 1372, 886
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler-2
   rotate: false
-  xy: 1372, 886
+  xy: 1444, 950
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler-Modern era
   rotate: false
-  xy: 1444, 950
+  xy: 1012, 483
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler-Modern era-2
   rotate: false
-  xy: 1012, 481
+  xy: 1084, 547
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ship of the Line
   rotate: false
-  xy: 1084, 541
+  xy: 1156, 622
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Sipahi
   rotate: false
-  xy: 1156, 619
+  xy: 1228, 683
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Skirmisher
   rotate: false
-  xy: 1228, 694
+  xy: 1300, 758
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Slinger
   rotate: false
-  xy: 1300, 758
+  xy: 1372, 822
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spearman
   rotate: false
-  xy: 1372, 822
+  xy: 1444, 886
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spearman-2
   rotate: false
-  xy: 1444, 886
+  xy: 1516, 950
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Submarine
   rotate: false
-  xy: 1516, 950
+  xy: 1084, 483
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Swordsman
   rotate: false
-  xy: 1156, 555
+  xy: 1156, 558
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Swordsman-1
   rotate: false
-  xy: 1228, 630
+  xy: 1228, 619
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1931,98 +1945,98 @@ TileSets/HexaRealm/Units/Trebuchet
   index: -1
 TileSets/HexaRealm/Units/Trebuchet-2
   rotate: false
-  xy: 1228, 566
+  xy: 1156, 494
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trireme
   rotate: false
-  xy: 1300, 630
+  xy: 1228, 555
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trireme-2
   rotate: false
-  xy: 1372, 694
+  xy: 1300, 630
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Turtle Ship
   rotate: false
-  xy: 1444, 758
+  xy: 1372, 694
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/War Chariot
   rotate: false
-  xy: 1516, 818
+  xy: 1444, 754
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/War Elephant
   rotate: false
-  xy: 1588, 880
+  xy: 1516, 816
   size: 64, 62
   orig: 64, 62
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior
   rotate: false
-  xy: 1660, 950
+  xy: 1588, 886
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-2
   rotate: false
-  xy: 1300, 566
+  xy: 1660, 950
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats
   rotate: false
-  xy: 1372, 630
+  xy: 1300, 566
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Modern era
   rotate: false
-  xy: 1444, 694
+  xy: 1372, 630
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker
   rotate: false
-  xy: 1516, 754
+  xy: 1444, 690
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-2
   rotate: false
-  xy: 1588, 816
+  xy: 1516, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era
   rotate: false
-  xy: 1660, 886
+  xy: 1588, 822
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era-2
   rotate: false
-  xy: 1732, 950
+  xy: 1660, 886
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
